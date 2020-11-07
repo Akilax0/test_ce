@@ -78,6 +78,8 @@ def writeHTMLContents():
     s = s + "</ul>"
     return s
 
+    #adfsad
+
 
 def writeHTMLSection(batch,year):
     if len(PROJECTS[batch][year])==0:
